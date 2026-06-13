@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="caze" tvg-name="Caze TV BR",Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
